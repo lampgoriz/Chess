@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.desk{
+    background-image: url(img/wk85.jpg);
+    background-size: cover;
+    height:800px;
+    width: 800px;
+    position: relative;
+}
+.figure{
+    border-radius: 50%;
+    border: 1px solid grey;
+    height: 50px;
+    width: 50px;
+    box-shadow: 3px 2px 5px darkgray;
+}
+.white-figure{
+    position: absolute;
+    background-color: white;
+    border: 1px solid black;
+}
+.black-figure{
+    position: absolute;
+    background-color: black;
+    border: 1px solid white;
+}
+.r1{
+    top: 115px;
+}
+.f1{
+    left: 188px;    
+}
+.f2{
+    left: 339px;
+}
+.f3{
+    left: 489px;
+}
+.f4{
+    left: 637px;
+}
+.r2{
+    top: 189px;
+}
+.f5{
+    left: 112px;
+}
+.f6{
+    left: 262px;
+}
+.f7{
+    left: 412px;;
+}
+.f8{
+    left: 562px;
+}
+.r3{
+    top: 264px;
+}
+.r4{
+    bottom: 186px;
+}
+.r5{
+    bottom: 110px;
+}
+.r6{
+    bottom: 259px;
+}
+
+
